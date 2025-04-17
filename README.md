@@ -23,7 +23,7 @@ A data pipeline that extracts data from various finance APIs daily and automatic
 
 A web application that allows users to view a location's accessibility rating prior to their visit. Ratings are given on a 5-point scale (where 0 is least accessible and 5 is most accessible). There are multiple categories such as: sensory rating, mobility rating, service dog relief, wheelchair accessibility rating, common allergen rating. This app was built in a team of women developers and designers, with a technical lead representing the very demographics to whom the app would be marketed. The app is currently under construction. The backend extracts the crowdsourced ratings from a Google form and ingests it into a Postgres database. I wrote the stored procedures as Python functions with embedded SQL queries to update the database and display the ratings onto a custom Google Maps. 
 
-*Stack:* [Google Cloud](https://cloud.google.com/gcp) | [Google Maps](https://developers.google.com/maps/documentation/javascript/overview) | [Flask](https://flask.palletsprojects.com/en/stable/) | [Javascript]([https://www.djangoproject.com/](https://developer.mozilla.org/en-US/docs/Web/JavaScript)) | [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) | [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+*Stack:* [Google Cloud](https://cloud.google.com/gcp) | [Google Maps](https://developers.google.com/maps/documentation/javascript/overview) | [Flask](https://flask.palletsprojects.com/en/stable/) | [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) | [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 
 **IMDB Vector Database** [repo](https://github.com/audreyle/IMDB-Vector-Search-DB)
